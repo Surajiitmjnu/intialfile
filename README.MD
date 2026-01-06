@@ -1,1 +1,1 @@
-THIS IS PRACTIES FOR GIT HUM
+this is the backend project only for practies
